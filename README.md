@@ -1,2 +1,2 @@
 # zhaojianwang.github.io
-Personal Homepage
+Repository for Zhaojian Wang's academic research website.
